@@ -11,19 +11,13 @@ public abstract class NPC : MonoBehaviour, Interactable
     private Transform _playerTransform;
     private bool _isInteractable = true;
     private const float INTERACT_DISTANCE = 15f;
-    private PlayerInput playerInput;
     private InputAction _action;
 
     public abstract void Interact();
 
-    private void Awake()
-    {
-        
-    }
-
     private void Update()
     {   
-        if (IsWhithinInteractDistance() && (_action.ReadValue<float>() > 0)) { 
+        if (IsWhithinInteractDistance() && _action.triggered) { 
             Interact(); 
 
         }
@@ -41,7 +35,7 @@ public abstract class NPC : MonoBehaviour, Interactable
     private void Start()
     {
         _playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
-        _action = new InputAction();
+        _action = new InputAction(binding: "<Keyboard>/e", type: InputActionType.Button);
         _action.Enable();
     }
 

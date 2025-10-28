@@ -986,6 +986,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueController
   NPCNameText: {fileID: 1479136922}
   dialogueText: {fileID: 1982754599}
+  typeSpeed: 10
 --- !u!114 &1221278362
 MonoBehaviour:
   m_ObjectHideFlags: 0

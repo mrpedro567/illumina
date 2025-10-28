@@ -14,7 +14,6 @@ public class Firepit : NPC, Talkable
 
     public void Talk(Dialogue dialogueText)
     {
-        Debug.Log("asaaaaaaa");
         dialogueController.DisplayNextParagraph(dialogueText);
     }
 }
