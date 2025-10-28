@@ -1,64 +1,51 @@
 using UnityEngine;
-using System.Collections;
+using UnityEngine.InputSystem;
+using UnityEngine.Windows;
 
-public class PlayerMovementScript: MonoBehaviour{
-    public float playerSpeed;
-    public float sprintSpeed = 4f;
-    public float walkSpeed = 1f;
-    // public float mouseSensitivity = 2f;
-    // public float jumpHeight = 3f;
-    private bool isMoving = false;
-    private int vertical = 0;
-    private int horizontal = 0;
-    private Vector2 velocity = Vector2.zero;
+public class PlayerMovement : MonoBehaviour
+{
+    public float horizontal, vertical, speed = 6;
+    public int m_facingDirection = 1;
+    public bool isEKeyPressed = false;
+    public Rigidbody2D rb;
 
-    private Rigidbody2D rb;
+    public Vector2 direction = Vector2.zero;
 
-    void Start(){
-        vertical = 0; horizontal = 0;
-        playerSpeed = walkSpeed;
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
         rb = GetComponent<Rigidbody2D>();
-
     }
 
+    public void setInput(InputAction.CallbackContext context)
+    {
+        horizontal = context.ReadValue<Vector2>().x;
+        vertical = context.ReadValue<Vector2>().y;
+    }
+
+    public void setInteractable(InputAction.CallbackContext context)
+    {
+        isEKeyPressed |= context.ReadValue<bool>();
+    }
 
     // Update is called once per frame
-    void Update(){
-        isMoving = false;
+    void FixedUpdate()
+    {
+        direction.x = horizontal;
+        direction.y = vertical;
 
-        if (Input.GetKeyDown("w")){
-            vertical += 1;
-        }
-        if (Input.GetKeyUp("w")){
-            vertical -= 1;
-        }
+        rb.MovePosition(rb.position + (direction * speed * Time.deltaTime));
 
-        if (Input.GetKeyDown("a")) {
-            horizontal += 1;
-        }
-        if (Input.GetKeyUp("a")){
-            horizontal -= 1;
+        if (horizontal > 0)
+        {
+            GetComponent<SpriteRenderer>().flipX = false;
+            m_facingDirection = 1;
         }
 
-        if (Input.GetKeyDown("s")){
-            vertical -= 1;
+        else if (horizontal < 0)
+        {
+            GetComponent<SpriteRenderer>().flipX = true;
+            m_facingDirection = -1;
         }
-        if (Input.GetKeyUp("s")){
-            vertical += 1;
-        }
-
-        if (Input.GetKeyDown("d")){
-            horizontal -= 1;
-        }
-        if (Input.GetKeyUp("d")){
-            horizontal += 1;
-        }
-
-        isMoving = horizontal != 0 || vertical != 0;
-
-        velocity.x = horizontal * playerSpeed;
-        velocity.y = vertical * playerSpeed;
-
-        rb.linearVelocity = velocity;
     }
 }
