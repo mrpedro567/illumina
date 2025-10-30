@@ -70,16 +70,16 @@ MonoBehaviour:
     HasValue: 0
   displaySortOrder: 0
   childIdentifiers:
-  - 46fbfdf3fc43db0458918377fd40293e
+  - 52eb9df5db46521439908db3a29a1bbb
+  - e7a046c753c3c3d4aacc91f6597f310d
+  - 2fea114e74ecf3c4f920e1d5cc1c4c40
+  - 2c5177b11d81d824dbb064f9ac8527da
+  - c88d16e5272a4e241b0ef0ac2e53b73d
   - de700ef3f37a49b58a57ae3addf01ad9
   - fd7c55dab0fce234b8c25f6ffca523c1
-  - 2fea114e74ecf3c4f920e1d5cc1c4c40
-  - c88d16e5272a4e241b0ef0ac2e53b73d
-  - e7a046c753c3c3d4aacc91f6597f310d
+  - 46fbfdf3fc43db0458918377fd40293e
   - b7716510a1f36934c87976f3a81dbf3d
   - 0f8eb3f400726694eb47beb1a9f94ce8
-  - 2c5177b11d81d824dbb064f9ac8527da
-  - 52eb9df5db46521439908db3a29a1bbb
   codecChannels:
     Value: []
     HasValue: 0
@@ -486,10 +486,8 @@ MonoBehaviour:
   VirtualChannelSettings: []
   RealChannelSettings: []
   Plugins: []
-  MasterBanks:
-  - Master
-  Banks:
-  - Bank_1
+  MasterBanks: []
+  Banks: []
   BanksToLoad: []
   LiveUpdatePort: 9264
   EnableMemoryTracking: 0
@@ -505,18 +503,18 @@ MonoBehaviour:
   HideSetupWizard: 1
   LastEventReferenceScanVersion: 131849
   Platforms:
-  - {fileID: -8628598106584226195}
   - {fileID: -8959646598902593101}
-  - {fileID: 4523780128891009130}
+  - {fileID: -8628598106584226195}
+  - {fileID: -8366898681494858087}
+  - {fileID: -5284822335425020984}
+  - {fileID: -5162035234821548191}
+  - {fileID: -2649302236093110355}
+  - {fileID: 969414846927168786}
   - {fileID: 2197024599390039137}
   - {fileID: 4435581470442951656}
-  - {fileID: -5162035234821548191}
-  - {fileID: 969414846927168786}
-  - {fileID: -5284822335425020984}
+  - {fileID: 4523780128891009130}
   - {fileID: 7569089263469702343}
   - {fileID: 7700741380376355006}
-  - {fileID: -2649302236093110355}
-  - {fileID: -8366898681494858087}
   MigratedPlatforms: 09000000080000000b0000000a00000012000000060000000c0000000500000000000000150000000200000001000000
 --- !u!114 &969414846927168786
 MonoBehaviour:
