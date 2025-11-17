@@ -125,6 +125,8 @@ public class ImageDivider : MonoBehaviour
             pieces.Add(piece);
         }
     }
+
+    PuzzleManager.Instance.SetTotalPieces(pieces.Count);
 }
 
 
