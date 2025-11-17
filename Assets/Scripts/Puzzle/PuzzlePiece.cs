@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class PuzzlePiece : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
-    [HideInInspector] public Vector2 correctPosition; // posição correta vinda do ImageDivider
+    [HideInInspector] public Vector2 correctPosition;
 
     private RectTransform rectTransform;
     private Canvas canvas;
@@ -12,7 +12,6 @@ public class PuzzlePiece : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndD
 
     private bool isPlacedCorrectly = false;
 
-    // Distância de tolerância para o encaixe (pode ajustar)
     private const float snapThreshold = 25f;
 
     void Awake()
@@ -24,9 +23,11 @@ public class PuzzlePiece : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndD
 
     public void OnBeginDrag(PointerEventData eventData)
     {
-        if (isPlacedCorrectly) return; // não permitir mover se já encaixou
+        if (isPlacedCorrectly) return;
 
+        // Sempre coloca a peça sendo arrastada acima das outras
         transform.SetAsLastSibling();
+
         canvasGroup.alpha = 0.8f;
         canvasGroup.blocksRaycasts = false;
     }
@@ -49,13 +50,17 @@ public class PuzzlePiece : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndD
 
         if (distance < snapThreshold)
         {
-            // ✅ Encaixe suave
+            // Encaixa no lugar certo
             rectTransform.anchoredPosition = correctPosition;
             isPlacedCorrectly = true;
 
-            // Desabilita o CanvasGroup para evitar interações futuras
+            // Bloqueia totalmente interação
             canvasGroup.blocksRaycasts = false;
 
+            // Peça correta deve ir PARA BAIXO de todas
+            transform.SetAsFirstSibling();
+
+            PuzzleManager.Instance.PiecePlaced();
         }
     }
 }
