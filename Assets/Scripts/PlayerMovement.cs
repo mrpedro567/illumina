@@ -4,8 +4,9 @@ using UnityEngine.Windows;
 
 public class PlayerMovement : MonoBehaviour
 {
+
+    [SerializeField] private Animator animator;
     public float horizontal, vertical, speed = 6;
-    public int m_facingDirection = 1;
     public bool isEKeyPressed = false;
     public Rigidbody2D rb;
 
@@ -38,14 +39,26 @@ public class PlayerMovement : MonoBehaviour
 
         if (horizontal > 0)
         {
-            GetComponent<SpriteRenderer>().flipX = false;
-            m_facingDirection = 1;
+            animator.SetInteger("direction", 1);
         }
 
         else if (horizontal < 0)
         {
-            GetComponent<SpriteRenderer>().flipX = true;
-            m_facingDirection = -1;
+            animator.SetInteger("direction", -1);
+        }
+
+        else if(vertical > 0)
+        {
+            animator.SetInteger("direction", 2);
+        }
+
+        else if(vertical < 0)
+        {
+            animator.SetInteger("direction", -2);
+        }
+        else
+        {
+            animator.SetInteger("direction", 0);
         }
     }
 }
