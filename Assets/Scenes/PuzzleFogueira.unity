@@ -569,7 +569,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 329cac88f73c6bc48857fe2cd89e9e9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ImageDivider
-  imageToDivide: {fileID: -1688291840055102583, guid: 66b39fc4ac6d54746a5f6998c655d6bc, type: 3}
+  imageToDivide: {fileID: -3649621398592727529, guid: 5f800b2631616c846875783e7eb5ec92, type: 3}
   rows: 4
   cols: 3
   piecePrefab: {fileID: 3971232866334138858, guid: 133f401b0acd97f42b9f7d43565a5a48, type: 3}
