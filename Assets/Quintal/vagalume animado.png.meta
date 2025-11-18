@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 08fbe1a38e6e2eb488d63e198ddfb99e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8335957644984320209
+    second: vagalume animado_0
+  - first:
+      213: -8915433860002788687
+    second: vagalume animado_1
+  - first:
+      213: 2628202579134617718
+    second: vagalume animado_2
+  - first:
+      213: 8462014036413018640
+    second: vagalume animado_3
+  - first:
+      213: 6995474123381269326
+    second: vagalume animado_4
+  - first:
+      213: 9174320250652498460
+    second: vagalume animado_5
+  - first:
+      213: -7756233357413200292
+    second: vagalume animado_6
+  - first:
+      213: -7542863111516579531
+    second: vagalume animado_7
+  - first:
+      213: 3864971282960275327
+    second: vagalume animado_8
+  - first:
+      213: -3727205947302013941
+    second: vagalume animado_9
+  - first:
+      213: 5161173687698043897
+    second: vagalume animado_10
+  - first:
+      213: -8337636613111983
+    second: vagalume animado_11
+  - first:
+      213: -7831524295034881127
+    second: vagalume animado_12
+  - first:
+      213: 2196037280553082029
+    second: vagalume animado_13
+  - first:
+      213: 7135171090942703138
+    second: vagalume animado_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vagalume animado_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ff10c00bab05c80800000000000000
+      internalID: -8335957644984320209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba4b0ce324064480800000000000000
+      internalID: -8915433860002788687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67895172250497420800000000000000
+      internalID: 2628202579134617718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01274c4beec1f6570800000000000000
+      internalID: 8462014036413018640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_4
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43e39fc6aae41160800000000000000
+      internalID: 6995474123381269326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_5
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a90db09abb15f70800000000000000
+      internalID: 9174320250652498460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_6
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ec9501bd25c5490800000000000000
+      internalID: -7756233357413200292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_7
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53918a0c6fd525790800000000000000
+      internalID: -7542863111516579531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_8
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77dee387e223a530800000000000000
+      internalID: 3864971282960275327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_9
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04175240fd464cc0800000000000000
+      internalID: -3727205947302013941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_10
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3b557bf1c20a740800000000000000
+      internalID: 5161173687698043897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_11
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fb863b6f062eff0800000000000000
+      internalID: -8337636613111983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_12
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bba989526d05390800000000000000
+      internalID: -7831524295034881127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_13
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac91e48544e97e10800000000000000
+      internalID: 2196037280553082029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagalume animado_14
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 29
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226b64fad48350360800000000000000
+      internalID: 7135171090942703138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vagalume animado_0: -8335957644984320209
+      vagalume animado_1: -8915433860002788687
+      vagalume animado_10: 5161173687698043897
+      vagalume animado_11: -8337636613111983
+      vagalume animado_12: -7831524295034881127
+      vagalume animado_13: 2196037280553082029
+      vagalume animado_14: 7135171090942703138
+      vagalume animado_2: 2628202579134617718
+      vagalume animado_3: 8462014036413018640
+      vagalume animado_4: 6995474123381269326
+      vagalume animado_5: 9174320250652498460
+      vagalume animado_6: -7756233357413200292
+      vagalume animado_7: -7542863111516579531
+      vagalume animado_8: 3864971282960275327
+      vagalume animado_9: -3727205947302013941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 579b3a9dbb724f847bce3d5ad3e943f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3732981715299393507
+    second: fogueira - mexendo_0
+  - first:
+      213: 2432191324431951741
+    second: fogueira - mexendo_1
+  - first:
+      213: 8558690124427085149
+    second: fogueira - mexendo_2
+  - first:
+      213: 5613009363082471376
+    second: fogueira - mexendo_3
+  - first:
+      213: 7328102556983125020
+    second: fogueira - mexendo_4
+  - first:
+      213: 1099737906954008869
+    second: fogueira - mexendo_5
+  - first:
+      213: 7269647546091046008
+    second: fogueira - mexendo_6
+  - first:
+      213: 2423028840218634721
+    second: fogueira - mexendo_7
+  - first:
+      213: -6069426890747242863
+    second: fogueira - mexendo_8
+  - first:
+      213: -3837677671670388373
+    second: fogueira - mexendo_9
+  - first:
+      213: 1694087641414909109
+    second: fogueira - mexendo_10
+  - first:
+      213: -924414233669059614
+    second: fogueira - mexendo_11
+  - first:
+      213: -8227018133658079408
+    second: fogueira - mexendo_12
+  - first:
+      213: 2223427176763871743
+    second: fogueira - mexendo_13
+  - first:
+      213: 8554351479816501333
+    second: fogueira - mexendo_14
+  - first:
+      213: -3492531723776815947
+    second: fogueira - mexendo_15
+  - first:
+      213: -7547471676584606309
+    second: fogueira - mexendo_16
+  - first:
+      213: 2918162781735607635
+    second: fogueira - mexendo_17
+  - first:
+      213: -8387674909022343392
+    second: fogueira - mexendo_18
+  - first:
+      213: 583650734928801739
+    second: fogueira - mexendo_19
+  - first:
+      213: -7281331112537011469
+    second: fogueira - mexendo_20
+  - first:
+      213: 8525733830832487661
+    second: fogueira - mexendo_21
+  - first:
+      213: 3391856240503728376
+    second: fogueira - mexendo_22
+  - first:
+      213: -2874877751245755519
+    second: fogueira - mexendo_23
+  - first:
+      213: 3248346035044647993
+    second: fogueira - mexendo_24
+  - first:
+      213: -7294167421482824013
+    second: fogueira - mexendo_25
+  - first:
+      213: -5346378999907946101
+    second: fogueira - mexendo_26
+  - first:
+      213: 2515251305877699254
+    second: fogueira - mexendo_27
+  - first:
+      213: 8906472644911154647
+    second: fogueira - mexendo_28
+  - first:
+      213: -6711713654761426378
+    second: fogueira - mexendo_29
+  - first:
+      213: -4139830179943536440
+    second: fogueira - mexendo_30
+  - first:
+      213: -7381628062090382851
+    second: fogueira - mexendo_31
+  - first:
+      213: -8414091811845921395
+    second: fogueira - mexendo_32
+  - first:
+      213: -2105796298330552721
+    second: fogueira - mexendo_33
+  - first:
+      213: 3266200721568399994
+    second: fogueira - mexendo_34
+  - first:
+      213: -2622854569895350345
+    second: fogueira - mexendo_35
+  - first:
+      213: -1835272262825739016
+    second: fogueira - mexendo_36
+  - first:
+      213: 5317884724206575184
+    second: fogueira - mexendo_37
+  - first:
+      213: 2511327882317160279
+    second: fogueira - mexendo_38
+  - first:
+      213: 8520019046812190098
+    second: fogueira - mexendo_39
+  - first:
+      213: 3129441868308658246
+    second: fogueira - mexendo_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fogueira - mexendo_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4339
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efd27587173ec330800000000000000
+      internalID: 3732981715299393507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 4319
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77ad8e8f11e0c120800000000000000
+      internalID: 2432191324431951741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4199
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55ce11825396c670800000000000000
+      internalID: 8558690124427085149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4019
+        width: 242
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7e877d64a65ed40800000000000000
+      internalID: 5613009363082471376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 4169
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c146c9a1376a2b560800000000000000
+      internalID: 7328102556983125020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3959
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529760abccd034f00800000000000000
+      internalID: 1099737906954008869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3559
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8740c0b4de9f2e460800000000000000
+      internalID: 7269647546091046008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3379
+        width: 242
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e922c574e350a120800000000000000
+      internalID: 2423028840218634721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3529
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1969eca666015cba0800000000000000
+      internalID: -6069426890747242863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3319
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6963a19d74ddbac0800000000000000
+      internalID: -3837677671670388373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2919
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc3ae4fbbb928710800000000000000
+      internalID: 1694087641414909109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2739
+        width: 242
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb37d8f622db23f0800000000000000
+      internalID: -924414233669059614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_12
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2889
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fec969892c3dd80800000000000000
+      internalID: -8227018133658079408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2679
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1d5feac333bde10800000000000000
+      internalID: 2223427176763871743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2459
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558bc46195927b670800000000000000
+      internalID: 8554351479816501333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2459
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc0085c6e8088fc0800000000000000
+      internalID: -3492531723776815947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2319
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b954ad49f7ef14790800000000000000
+      internalID: -7547471676584606309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2099
+        width: 242
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ddd12c6956f7820800000000000000
+      internalID: 2918162781735607635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2279
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f244c2c1ef89b80800000000000000
+      internalID: -8387674909022343392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_19
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2249
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfa358404b891800800000000000000
+      internalID: 583650734928801739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2039
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa4b396ee383fa90800000000000000
+      internalID: -7281331112537011469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1829
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decfc447fbd715670800000000000000
+      internalID: 8525733830832487661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1789
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8aa68a74b421f20800000000000000
+      internalID: 3391856240503728376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1799
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ba250cae16a18d0800000000000000
+      internalID: -2874877751245755519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1709
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93482662281741d20800000000000000
+      internalID: 3248346035044647993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1459
+        width: 242
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be0a465069e5ca90800000000000000
+      internalID: -7294167421482824013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1639
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81f0eb30a8ddc5b0800000000000000
+      internalID: -5346378999907946101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_27
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1609
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba7daf7cb7f7e220800000000000000
+      internalID: 2515251305877699254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_28
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1399
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5c9a99ea52a9b70800000000000000
+      internalID: 8906472644911154647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1179
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6327ecdbdf33bd2a0800000000000000
+      internalID: -6711713654761426378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1149
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c82606926e5c86c0800000000000000
+      internalID: -4139830179943536440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1089
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df13c0713603f8990800000000000000
+      internalID: -7381628062090382851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_32
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 819
+        width: 242
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85a66fa3142b3b80800000000000000
+      internalID: -8414091811845921395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 999
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66cca47c65b6c2e0800000000000000
+      internalID: -2105796298330552721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_34
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 969
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72853e4040e35d20800000000000000
+      internalID: 3266200721568399994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 759
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfa0e74aafb99bd0800000000000000
+      internalID: -2622854569895350345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_36
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 519
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcf424c99dc786e0800000000000000
+      internalID: -1835272262825739016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 359
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e1fc63bfbecc940800000000000000
+      internalID: 5317884724206575184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_38
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 179
+        width: 242
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f5c0447670ad220800000000000000
+      internalID: 2511327882317160279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_39
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 329
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2958dcc9e203d3670800000000000000
+      internalID: 8520019046812190098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira - mexendo_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 119
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648b5c97cc20e6b20800000000000000
+      internalID: 3129441868308658246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fogueira - mexendo_0: 3732981715299393507
+      fogueira - mexendo_1: 2432191324431951741
+      fogueira - mexendo_10: 1694087641414909109
+      fogueira - mexendo_11: -924414233669059614
+      fogueira - mexendo_12: -8227018133658079408
+      fogueira - mexendo_13: 2223427176763871743
+      fogueira - mexendo_14: 8554351479816501333
+      fogueira - mexendo_15: -3492531723776815947
+      fogueira - mexendo_16: -7547471676584606309
+      fogueira - mexendo_17: 2918162781735607635
+      fogueira - mexendo_18: -8387674909022343392
+      fogueira - mexendo_19: 583650734928801739
+      fogueira - mexendo_2: 8558690124427085149
+      fogueira - mexendo_20: -7281331112537011469
+      fogueira - mexendo_21: 8525733830832487661
+      fogueira - mexendo_22: 3391856240503728376
+      fogueira - mexendo_23: -2874877751245755519
+      fogueira - mexendo_24: 3248346035044647993
+      fogueira - mexendo_25: -7294167421482824013
+      fogueira - mexendo_26: -5346378999907946101
+      fogueira - mexendo_27: 2515251305877699254
+      fogueira - mexendo_28: 8906472644911154647
+      fogueira - mexendo_29: -6711713654761426378
+      fogueira - mexendo_3: 5613009363082471376
+      fogueira - mexendo_30: -4139830179943536440
+      fogueira - mexendo_31: -7381628062090382851
+      fogueira - mexendo_32: -8414091811845921395
+      fogueira - mexendo_33: -2105796298330552721
+      fogueira - mexendo_34: 3266200721568399994
+      fogueira - mexendo_35: -2622854569895350345
+      fogueira - mexendo_36: -1835272262825739016
+      fogueira - mexendo_37: 5317884724206575184
+      fogueira - mexendo_38: 2511327882317160279
+      fogueira - mexendo_39: 8520019046812190098
+      fogueira - mexendo_4: 7328102556983125020
+      fogueira - mexendo_40: 3129441868308658246
+      fogueira - mexendo_5: 1099737906954008869
+      fogueira - mexendo_6: 7269647546091046008
+      fogueira - mexendo_7: 2423028840218634721
+      fogueira - mexendo_8: -6069426890747242863
+      fogueira - mexendo_9: -3837677671670388373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

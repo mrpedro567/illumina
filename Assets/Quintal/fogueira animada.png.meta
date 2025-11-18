@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: ff836b32eab89ef43adb5a9c73f969f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6579830241914853905
+    second: fogueira animada_0
+  - first:
+      213: -5285836684938950429
+    second: fogueira animada_1
+  - first:
+      213: -800532787757049198
+    second: fogueira animada_2
+  - first:
+      213: -514660723990229550
+    second: fogueira animada_3
+  - first:
+      213: 4152399213914372499
+    second: fogueira animada_4
+  - first:
+      213: 3088308955166261041
+    second: fogueira animada_5
+  - first:
+      213: -8842740582685306727
+    second: fogueira animada_6
+  - first:
+      213: 1050781977057770750
+    second: fogueira animada_7
+  - first:
+      213: 2708827898818331875
+    second: fogueira animada_8
+  - first:
+      213: -6014776818655687713
+    second: fogueira animada_9
+  - first:
+      213: -5535110611514427714
+    second: fogueira animada_10
+  - first:
+      213: 7327817794665858717
+    second: fogueira animada_11
+  - first:
+      213: -944477612236721762
+    second: fogueira animada_12
+  - first:
+      213: -6783257724490835182
+    second: fogueira animada_13
+  - first:
+      213: 4661191093045117071
+    second: fogueira animada_14
+  - first:
+      213: -5211630028955356009
+    second: fogueira animada_15
+  - first:
+      213: 2330790946577718786
+    second: fogueira animada_16
+  - first:
+      213: -8683355898102312246
+    second: fogueira animada_17
+  - first:
+      213: 2194882017977684438
+    second: fogueira animada_18
+  - first:
+      213: 2309872520094249110
+    second: fogueira animada_19
+  - first:
+      213: -7731551982941150802
+    second: fogueira animada_20
+  - first:
+      213: 6124128987530696454
+    second: fogueira animada_21
+  - first:
+      213: -488798503157545525
+    second: fogueira animada_22
+  - first:
+      213: 7817198936489418154
+    second: fogueira animada_23
+  - first:
+      213: 7238203468268342383
+    second: fogueira animada_24
+  - first:
+      213: 3076753999372564305
+    second: fogueira animada_25
+  - first:
+      213: 652867445738691500
+    second: fogueira animada_26
+  - first:
+      213: 5630292895360165057
+    second: fogueira animada_27
+  - first:
+      213: -4507644554635256060
+    second: fogueira animada_28
+  - first:
+      213: 3644175105622747583
+    second: fogueira animada_29
+  - first:
+      213: 3826646602536474484
+    second: fogueira animada_30
+  - first:
+      213: -8445164389124948810
+    second: fogueira animada_31
+  - first:
+      213: 5050431235213110250
+    second: fogueira animada_32
+  - first:
+      213: 5334268121444513001
+    second: fogueira animada_33
+  - first:
+      213: 5368473732364579201
+    second: fogueira animada_34
+  - first:
+      213: -6983656567769212947
+    second: fogueira animada_35
+  - first:
+      213: -9168069057083664593
+    second: fogueira animada_36
+  - first:
+      213: -473091959074064830
+    second: fogueira animada_37
+  - first:
+      213: 7498799327123876588
+    second: fogueira animada_38
+  - first:
+      213: -7540371534182240924
+    second: fogueira animada_39
+  - first:
+      213: -9054660324919501279
+    second: fogueira animada_40
+  - first:
+      213: 7187251334701176313
+    second: fogueira animada_41
+  - first:
+      213: 1645576784025061926
+    second: fogueira animada_42
+  - first:
+      213: 2498987148388431330
+    second: fogueira animada_43
+  - first:
+      213: 1241504079940670298
+    second: fogueira animada_44
+  - first:
+      213: -4203244552491723435
+    second: fogueira animada_45
+  - first:
+      213: 462459417879328579
+    second: fogueira animada_46
+  - first:
+      213: -5844770934997597196
+    second: fogueira animada_47
+  - first:
+      213: -1272021760043061714
+    second: fogueira animada_48
+  - first:
+      213: 2049905350263249852
+    second: fogueira animada_49
+  - first:
+      213: -6463963993053768103
+    second: fogueira animada_50
+  - first:
+      213: 5720686408155890995
+    second: fogueira animada_51
+  - first:
+      213: -961097236874223818
+    second: fogueira animada_52
+  - first:
+      213: -3168341601419928253
+    second: fogueira animada_53
+  - first:
+      213: -5994070174930758660
+    second: fogueira animada_54
+  - first:
+      213: -3708291350600996003
+    second: fogueira animada_55
+  - first:
+      213: 5283178039574638113
+    second: fogueira animada_56
+  - first:
+      213: -889575726844455563
+    second: fogueira animada_57
+  - first:
+      213: -9109069442114735297
+    second: fogueira animada_58
+  - first:
+      213: -7531397790236998915
+    second: fogueira animada_59
+  - first:
+      213: 4592082140475938259
+    second: fogueira animada_60
+  - first:
+      213: 4858744589848857455
+    second: fogueira animada_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fogueira animada_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 7399
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a15bb5eb0405b50800000000000000
+      internalID: 6579830241914853905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 7219
+        width: 242
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e84c756a8fe4a6b0800000000000000
+      internalID: -5285836684938950429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 7369
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a10b2cbafe3e4f0800000000000000
+      internalID: -800532787757049198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 7159
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd87be5cce8bd8f0800000000000000
+      internalID: -514660723990229550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 6759
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3993afea51940a930800000000000000
+      internalID: 4152399213914372499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 6579
+        width: 242
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fb755d1a0ebda20800000000000000
+      internalID: 3088308955166261041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 6729
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9909c187a46484580800000000000000
+      internalID: -8842740582685306727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 6519
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc39ee04a0259e00800000000000000
+      internalID: 1050781977057770750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 5939
+        width: 242
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e40cba3f90b79520800000000000000
+      internalID: 2708827898818331875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 6169
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb06c0e958378ca0800000000000000
+      internalID: -6014776818655687713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 6119
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6ff20a9365f23b0800000000000000
+      internalID: -5535110611514427714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 6089
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9648d5b573a1b560800000000000000
+      internalID: 7327817794665858717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5879
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e913250ad9a84e2f0800000000000000
+      internalID: -944477612236721762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5479
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b9ccfe9070dd1a0800000000000000
+      internalID: -6783257724490835182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 5299
+        width: 242
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f804b236a90efa040800000000000000
+      internalID: 4661191093045117071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 5449
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7947b5fd9129ca7b0800000000000000
+      internalID: -5211630028955356009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5239
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e16705402a85020800000000000000
+      internalID: 2330790946577718786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4839
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2915b21d58e7780800000000000000
+      internalID: -8683355898102312246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_18
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4659
+        width: 242
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1d37df099c57e10800000000000000
+      internalID: 2194882017977684438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_19
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 4809
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69077ac91d05e0020800000000000000
+      internalID: 2309872520094249110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4599
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1635e5f6204b490800000000000000
+      internalID: -7731551982941150802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_21
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4339
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607907cfdd64df450800000000000000
+      internalID: 6124128987530696454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_22
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 4319
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc54d84e9507739f0800000000000000
+      internalID: -488798503157545525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4199
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad5304f3054c7c60800000000000000
+      internalID: 7817198936489418154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4019
+        width: 242
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c822a64b3437460800000000000000
+      internalID: 7238203468268342383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_25
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 4169
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1573dd90673d2ba20800000000000000
+      internalID: 3076753999372564305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3959
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabdbac9b737f0900800000000000000
+      internalID: 652867445738691500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3559
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c42959ce81d22e40800000000000000
+      internalID: 5630292895360165057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_28
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3379
+        width: 242
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fdd3bf821a171c0800000000000000
+      internalID: -4507644554635256060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_29
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3529
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb927fd63f5b29230800000000000000
+      internalID: 3644175105622747583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3319
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47754218fcafa1530800000000000000
+      internalID: 3826646602536474484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2919
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcbd648bbfbcca80800000000000000
+      internalID: -8445164389124948810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_32
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2739
+        width: 242
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb2a69337cb61640800000000000000
+      internalID: 5050431235213110250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_33
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2889
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4f3632890270a40800000000000000
+      internalID: 5334268121444513001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2679
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1813b9b8a66a08a40800000000000000
+      internalID: 5368473732364579201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2459
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7dac44a51151f90800000000000000
+      internalID: -6983656567769212947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_36
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2459
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27174064c974c080800000000000000
+      internalID: -9168069057083664593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2319
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246fb49ae5d3f69f0800000000000000
+      internalID: -473091959074064830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_38
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2099
+        width: 242
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea2827f146111860800000000000000
+      internalID: 7498799327123876588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2279
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46da99e4a083b5790800000000000000
+      internalID: -7540371534182240924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_40
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2249
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e995b7862675280800000000000000
+      internalID: -9054660324919501279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_41
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2039
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5d05c520f3eb360800000000000000
+      internalID: 7187251334701176313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_42
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1829
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a817ecd5346d610800000000000000
+      internalID: 1645576784025061926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_43
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1789
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e575fd329f2ea220800000000000000
+      internalID: 2498987148388431330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1799
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53df080265ba3110800000000000000
+      internalID: 1241504079940670298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1709
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55592a869531ba5c0800000000000000
+      internalID: -4203244552491723435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1459
+        width: 242
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3473bbde36cfa6600800000000000000
+      internalID: 462459417879328579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1639
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3c0f13dc333eea0800000000000000
+      internalID: -5844770934997597196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_48
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1609
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ee01ed2fed85ee0800000000000000
+      internalID: -1272021760043061714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_49
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1399
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb1d912e0ab27c10800000000000000
+      internalID: 2049905350263249852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_50
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1179
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9565d11fef26b46a0800000000000000
+      internalID: -6463963993053768103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_51
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1149
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335898d8af5f36f40800000000000000
+      internalID: 5720686408155890995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1089
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f9089b72f79a2f0800000000000000
+      internalID: -961097236874223818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 819
+        width: 242
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dd540a91ac704d0800000000000000
+      internalID: -3168341601419928253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 999
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf31d701fe8c0dca0800000000000000
+      internalID: -5994070174930758660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_55
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 969
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b26cbf9a0898cc0800000000000000
+      internalID: -3708291350600996003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_56
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 759
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12eadfd7f6e915940800000000000000
+      internalID: 5283178039574638113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_57
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 519
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57550a0f69797a3f0800000000000000
+      internalID: -889575726844455563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 359
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33b264ba95169180800000000000000
+      internalID: -9109069442114735297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_59
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 179
+        width: 242
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df203c2ec991b7790800000000000000
+      internalID: -7531397790236998915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_60
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 329
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5db7a706a5abf30800000000000000
+      internalID: 4592082140475938259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada_61
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 119
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bca44367abd6340800000000000000
+      internalID: 4858744589848857455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fogueira animada_0: 6579830241914853905
+      fogueira animada_1: -5285836684938950429
+      fogueira animada_10: -5535110611514427714
+      fogueira animada_11: 7327817794665858717
+      fogueira animada_12: -944477612236721762
+      fogueira animada_13: -6783257724490835182
+      fogueira animada_14: 4661191093045117071
+      fogueira animada_15: -5211630028955356009
+      fogueira animada_16: 2330790946577718786
+      fogueira animada_17: -8683355898102312246
+      fogueira animada_18: 2194882017977684438
+      fogueira animada_19: 2309872520094249110
+      fogueira animada_2: -800532787757049198
+      fogueira animada_20: -7731551982941150802
+      fogueira animada_21: 6124128987530696454
+      fogueira animada_22: -488798503157545525
+      fogueira animada_23: 7817198936489418154
+      fogueira animada_24: 7238203468268342383
+      fogueira animada_25: 3076753999372564305
+      fogueira animada_26: 652867445738691500
+      fogueira animada_27: 5630292895360165057
+      fogueira animada_28: -4507644554635256060
+      fogueira animada_29: 3644175105622747583
+      fogueira animada_3: -514660723990229550
+      fogueira animada_30: 3826646602536474484
+      fogueira animada_31: -8445164389124948810
+      fogueira animada_32: 5050431235213110250
+      fogueira animada_33: 5334268121444513001
+      fogueira animada_34: 5368473732364579201
+      fogueira animada_35: -6983656567769212947
+      fogueira animada_36: -9168069057083664593
+      fogueira animada_37: -473091959074064830
+      fogueira animada_38: 7498799327123876588
+      fogueira animada_39: -7540371534182240924
+      fogueira animada_4: 4152399213914372499
+      fogueira animada_40: -9054660324919501279
+      fogueira animada_41: 7187251334701176313
+      fogueira animada_42: 1645576784025061926
+      fogueira animada_43: 2498987148388431330
+      fogueira animada_44: 1241504079940670298
+      fogueira animada_45: -4203244552491723435
+      fogueira animada_46: 462459417879328579
+      fogueira animada_47: -5844770934997597196
+      fogueira animada_48: -1272021760043061714
+      fogueira animada_49: 2049905350263249852
+      fogueira animada_5: 3088308955166261041
+      fogueira animada_50: -6463963993053768103
+      fogueira animada_51: 5720686408155890995
+      fogueira animada_52: -961097236874223818
+      fogueira animada_53: -3168341601419928253
+      fogueira animada_54: -5994070174930758660
+      fogueira animada_55: -3708291350600996003
+      fogueira animada_56: 5283178039574638113
+      fogueira animada_57: -889575726844455563
+      fogueira animada_58: -9109069442114735297
+      fogueira animada_59: -7531397790236998915
+      fogueira animada_6: -8842740582685306727
+      fogueira animada_60: 4592082140475938259
+      fogueira animada_61: 4858744589848857455
+      fogueira animada_7: 1050781977057770750
+      fogueira animada_8: 2708827898818331875
+      fogueira animada_9: -6014776818655687713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

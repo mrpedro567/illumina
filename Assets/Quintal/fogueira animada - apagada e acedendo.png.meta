@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 7386a488b97836c4fa5274100e7a53fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4991568309361115158
+    second: fogueira animada - apagada e acedendo_0
+  - first:
+      213: 8661213305646859769
+    second: fogueira animada - apagada e acedendo_1
+  - first:
+      213: -8326033197241124073
+    second: fogueira animada - apagada e acedendo_2
+  - first:
+      213: -2095468480590232944
+    second: fogueira animada - apagada e acedendo_3
+  - first:
+      213: -1054244890218590317
+    second: fogueira animada - apagada e acedendo_4
+  - first:
+      213: -374578933330087896
+    second: fogueira animada - apagada e acedendo_5
+  - first:
+      213: -6860469851403383276
+    second: fogueira animada - apagada e acedendo_6
+  - first:
+      213: 955097736380617284
+    second: fogueira animada - apagada e acedendo_7
+  - first:
+      213: -2386451175503205459
+    second: fogueira animada - apagada e acedendo_8
+  - first:
+      213: -4075590866630568804
+    second: fogueira animada - apagada e acedendo_9
+  - first:
+      213: -3715740055337082736
+    second: fogueira animada - apagada e acedendo_10
+  - first:
+      213: -5510044534365000080
+    second: fogueira animada - apagada e acedendo_11
+  - first:
+      213: -8591931218744293273
+    second: fogueira animada - apagada e acedendo_12
+  - first:
+      213: -1447195173764144623
+    second: fogueira animada - apagada e acedendo_13
+  - first:
+      213: 8641688543628066293
+    second: fogueira animada - apagada e acedendo_14
+  - first:
+      213: 1346579183665315763
+    second: fogueira animada - apagada e acedendo_15
+  - first:
+      213: 5021703117737102568
+    second: fogueira animada - apagada e acedendo_16
+  - first:
+      213: -8641091241947255815
+    second: fogueira animada - apagada e acedendo_17
+  - first:
+      213: 5081287693327767456
+    second: fogueira animada - apagada e acedendo_18
+  - first:
+      213: 5893978803616179789
+    second: fogueira animada - apagada e acedendo_19
+  - first:
+      213: -74827586994144794
+    second: fogueira animada - apagada e acedendo_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2919
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610019f4eec954540800000000000000
+      internalID: 4991568309361115158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2739
+        width: 242
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5c7f6cc9fc23870800000000000000
+      internalID: 8661213305646859769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2889
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b355a9becf37c80800000000000000
+      internalID: -8326033197241124073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2679
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0924468e4866be2e0800000000000000
+      internalID: -2095468480590232944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2279
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f0044abd19e51f0800000000000000
+      internalID: -1054244890218590317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2099
+        width: 242
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820f38ad17a3dcaf0800000000000000
+      internalID: -374578933330087896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2249
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e03dab407bac0a0800000000000000
+      internalID: -6860469851403383276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2039
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4421fb6b450314d00800000000000000
+      internalID: 955097736380617284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1459
+        width: 242
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab6152cc4f91eed0800000000000000
+      internalID: -2386451175503205459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1689
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9498a043b79077c0800000000000000
+      internalID: -4075590866630568804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1639
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09061f34b1a0f6cc0800000000000000
+      internalID: -3715740055337082736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1609
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e679080b36883b0800000000000000
+      internalID: -5510044534365000080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1399
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768482c141453c880800000000000000
+      internalID: -8591931218744293273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 999
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112e02338a78aebe0800000000000000
+      internalID: -1447195173764144623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 819
+        width: 242
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd738ed1f17de770800000000000000
+      internalID: 8641688543628066293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 969
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf7e4012a200b210800000000000000
+      internalID: 1346579183665315763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 759
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec0134216ca0b540800000000000000
+      internalID: 5021703117737102568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 359
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbaef34c4da41880800000000000000
+      internalID: -8641091241947255815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_18
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 179
+        width: 242
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a79d5a3c3c548640800000000000000
+      internalID: 5081287693327767456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_19
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 329
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4669378e7e9bc150800000000000000
+      internalID: 5893978803616179789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fogueira animada - apagada e acedendo_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 119
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e970d1c4b826fef0800000000000000
+      internalID: -74827586994144794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fogueira animada - apagada e acedendo_0: 4991568309361115158
+      fogueira animada - apagada e acedendo_1: 8661213305646859769
+      fogueira animada - apagada e acedendo_10: -3715740055337082736
+      fogueira animada - apagada e acedendo_11: -5510044534365000080
+      fogueira animada - apagada e acedendo_12: -8591931218744293273
+      fogueira animada - apagada e acedendo_13: -1447195173764144623
+      fogueira animada - apagada e acedendo_14: 8641688543628066293
+      fogueira animada - apagada e acedendo_15: 1346579183665315763
+      fogueira animada - apagada e acedendo_16: 5021703117737102568
+      fogueira animada - apagada e acedendo_17: -8641091241947255815
+      fogueira animada - apagada e acedendo_18: 5081287693327767456
+      fogueira animada - apagada e acedendo_19: 5893978803616179789
+      fogueira animada - apagada e acedendo_2: -8326033197241124073
+      fogueira animada - apagada e acedendo_20: -74827586994144794
+      fogueira animada - apagada e acedendo_3: -2095468480590232944
+      fogueira animada - apagada e acedendo_4: -1054244890218590317
+      fogueira animada - apagada e acedendo_5: -374578933330087896
+      fogueira animada - apagada e acedendo_6: -6860469851403383276
+      fogueira animada - apagada e acedendo_7: 955097736380617284
+      fogueira animada - apagada e acedendo_8: -2386451175503205459
+      fogueira animada - apagada e acedendo_9: -4075590866630568804
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
