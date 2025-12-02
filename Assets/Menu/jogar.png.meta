@@ -119,11 +119,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 699
-        y: 1999
-        width: 2102
-        height: 2502
+        y: 1991
+        width: 2118
+        height: 2518
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -140,12 +140,12 @@ TextureImporter:
       name: jogar_1
       rect:
         serializedVersion: 2
-        x: 2999
-        y: 1999
-        width: 2102
-        height: 2502
+        x: 2991
+        y: 1991
+        width: 2118
+        height: 2518
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +162,12 @@ TextureImporter:
       name: jogar_2
       rect:
         serializedVersion: 2
-        x: 5299
-        y: 1999
-        width: 2102
-        height: 2502
+        x: 5291
+        y: 1991
+        width: 2118
+        height: 2518
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,12 +184,12 @@ TextureImporter:
       name: jogar_3
       rect:
         serializedVersion: 2
-        x: 7599
-        y: 1999
-        width: 2102
-        height: 2502
+        x: 7622
+        y: 1991
+        width: 2118
+        height: 2518
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: jogar_4
       rect:
         serializedVersion: 2
-        x: 9899
-        y: 1999
-        width: 2102
-        height: 2502
+        x: 9891
+        y: 1991
+        width: 2118
+        height: 2518
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,12 +228,12 @@ TextureImporter:
       name: jogar_5
       rect:
         serializedVersion: 2
-        x: 7899
-        y: 1099
-        width: 102
-        height: 102
+        x: 7891
+        y: 1091
+        width: 118
+        height: 118
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -246,11 +246,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: jogar_6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1923
+        width: 11500
+        height: 2630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 100, y: 46, z: 61, w: 46}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852a9acdd6bfe4d4699755dc73f7cf01
+      internalID: -1238783508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2a124997de56c5f4f878f250b9733476
     internalID: 0
     vertices: []
     indices: 
@@ -258,7 +280,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       jogar_0: 2734021628894367902
       jogar_1: 6489839386663390662
@@ -266,6 +290,7 @@ TextureImporter:
       jogar_3: 5443701621042523555
       jogar_4: 6297785838377361423
       jogar_5: 3517671198985052126
+      jogar_6: -1238783508
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

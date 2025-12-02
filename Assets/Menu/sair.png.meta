@@ -112,12 +112,12 @@ TextureImporter:
       name: sair_0
       rect:
         serializedVersion: 2
-        x: 239
+        x: 240
         y: 209
         width: 212
         height: 242
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -139,7 +139,7 @@ TextureImporter:
         width: 212
         height: 252
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -161,7 +161,7 @@ TextureImporter:
         width: 112
         height: 252
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -178,12 +178,12 @@ TextureImporter:
       name: sair_3
       rect:
         serializedVersion: 2
-        x: 829
+        x: 824
         y: 199
         width: 212
         height: 252
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -196,11 +196,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: sair_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 194
+        width: 829
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 17, y: 4, z: 6, w: 12}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2863d567edf4d4c96830fa00e0a580
+      internalID: 1322616363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 819f1dcb65cd9a04c97c86b19d3177c3
     internalID: 0
     vertices: []
     indices: 
@@ -214,6 +236,7 @@ TextureImporter:
       sair_1: 3769745894794267832
       sair_2: -4289196924077682032
       sair_3: 1414890619725696718
+      sair_4: 1322616363
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
