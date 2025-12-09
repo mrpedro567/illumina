@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Map_1.unity
     guid: 603e70106e6d80e4a9889ddb671e5d2f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PuzzleFoguete2.unity
     guid: 31eeb6a384956a24aab117fbc01b3870
   - enabled: 1
@@ -26,6 +26,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ingame_menu.unity
     guid: 3dd277b5f79859c4db941d5dcfe5ebe2
+  - enabled: 1
+    path: Assets/Scenes/PuzzleAnel.unity
+    guid: 85721a7084b8b564caec80929a5adaf8
+  - enabled: 1
+    path: Assets/Scenes/PuzzleFotografia.unity
+    guid: c9438eb2764b88446ac81edc793b3c56
+  - enabled: 1
+    path: Assets/Scenes/PuzzleFoguete.unity
+    guid: cfdd2c28a24d1804dbe9b04800982ef8
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9f9b502112109e94a93b36612157e90d, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
